@@ -1,0 +1,14 @@
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\bin\Debug\net8.0\ConsoleAppSummator.exe
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\bin\Debug\net8.0\ConsoleAppSummator.deps.json
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\bin\Debug\net8.0\ConsoleAppSummator.runtimeconfig.json
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\bin\Debug\net8.0\ConsoleAppSummator.dll
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\bin\Debug\net8.0\ConsoleAppSummator.pdb
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\obj\Debug\net8.0\ConsoleAppSummator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\obj\Debug\net8.0\ConsoleAppSummator.AssemblyInfoInputs.cache
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\obj\Debug\net8.0\ConsoleAppSummator.AssemblyInfo.cs
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\obj\Debug\net8.0\ConsoleAppSummator.csproj.CoreCompileInputs.cache
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\obj\Debug\net8.0\ConsoleAppSummator.dll
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\obj\Debug\net8.0\refint\ConsoleAppSummator.dll
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\obj\Debug\net8.0\ConsoleAppSummator.pdb
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\obj\Debug\net8.0\ConsoleAppSummator.genruntimeconfig.cache
+C:\Users\siebe\OneDrive\Documents\SoftUniQAUnitTesting\SoftUniPlaygroundTests\ConsoleAppSummator\obj\Debug\net8.0\ref\ConsoleAppSummator.dll
