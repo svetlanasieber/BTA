@@ -4,7 +4,7 @@
 
 
 
-![Logo_Software_University_(SoftUni)_-_blue_background](https://github.com/svetlanasieber/Software-Engineering--Path-SoftUni/assets/135451084/1e3d3eab-9ad9-480e-8993-e5cd4f6bd17a)
+
 
 
 
